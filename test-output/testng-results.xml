@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87" started-at="2020-02-01T14:15:41 IST" finished-at="2020-02-01T14:15:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87" started-at="2020-02-01T14:15:41 IST" finished-at="2020-02-01T14:15:41 IST">
+      <class name="rest.FirstResttest">
+        <test-method status="PASS" signature="testng()[pri:0, instance:rest.FirstResttest@7d907bac]" name="testng" duration-ms="4" started-at="2020-02-01T14:15:41 IST" finished-at="2020-02-01T14:15:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testng -->
+      </class> <!-- rest.FirstResttest -->
+      <class name="JavaArray">
+        <test-method status="PASS" signature="main()[pri:0, instance:JavaArray@1f28c152]" name="main" duration-ms="12" started-at="2020-02-01T14:15:41 IST" finished-at="2020-02-01T14:15:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- JavaArray -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
